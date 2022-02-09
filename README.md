@@ -3,6 +3,8 @@ Scheme interpreter written in Python3
 
 Author: Giorgi Kldiashvili
 
+This was written as a bonus assignment for Programming Paradigms course in Free University of Tbilisi
+
 -------------------------------------
 
 **Live Interpreter**
